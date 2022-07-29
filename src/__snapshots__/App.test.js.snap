@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App pt-5"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+      style={
+        Object {
+          "JustifyContent": "center",
+          "display": "flex",
+        }
+      }
+    />
+    <div
+      className="card"
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "width": "18rem",
+          }
+        }
+      >
+        <img
+          className="card-img-top"
+          src="TylerProfile.png"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            TylerIsMoore
+          </div>
+          <p
+            className="card-text"
+          >
+            Just a man trying to figure out if this is what he wants to do in life.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
